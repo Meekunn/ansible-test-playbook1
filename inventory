@@ -1,0 +1,8 @@
+---
+
+### 📄 `inventory`
+
+```ini
+[all]
+localhost ansible_connection=local
+```

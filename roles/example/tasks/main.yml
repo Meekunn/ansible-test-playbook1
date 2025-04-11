@@ -1,0 +1,4 @@
+---
+- name: Print a test message
+  debug:
+    msg: "{{ example_var }}"
